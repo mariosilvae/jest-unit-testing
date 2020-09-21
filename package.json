@@ -1,0 +1,22 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariosilvae/jest-unit-testing.git"
+  },
+  "author": "Mario Silva <mario.silvae@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariosilvae/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/mariosilvae/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
